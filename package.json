@@ -1,0 +1,12 @@
+{
+  "name": "parse_headers",
+  "version": "1.0.0",
+  "description": "FCC Header parser",
+  "main": "index.js",
+  "author": "nopestack",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
